@@ -1,0 +1,12 @@
+# JetBrains IDE
+/.idea
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Build-mappen
+out/
+build/
+bin/
+target/
